@@ -2,6 +2,7 @@
 =========================================================
 
 **Summary:**
+
 This data science visualization captures the various roles, skills and indsutries that are most prevalent in the practice. It is meant to illustrate the breadth and depth of the complex relationships and patterns that emerged from our research.
 
 Specifically, this data viz shows relationships between:
