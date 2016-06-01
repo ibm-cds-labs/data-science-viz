@@ -25,5 +25,5 @@ Specifically, this data viz shows relationships between:
 
 *Colored blocks = Type of work typically performed by a role within an industry
 
-![My image](http://public.dhe.ibm.com/common/ssi/ecm/im/en/im912352usen/IM912352USEN.PDF)
+![My image](https://github.com/ibm-cds-labs/data-science-viz/blob/master/5668D_DataBizInfographic_FINAL(3).pdf)
 
