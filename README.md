@@ -1,6 +1,8 @@
 **We're all in the data business - a data visualization**
 =========================================================
 
+:no_entry_sign: This project is no longer maintained
+
 **Summary:**
 
 This data science visualization captures the various roles, skills and industries that are most prevalent in the practice. It is meant to illustrate the breadth and depth of the complex relationships and patterns that emerged from our research.
